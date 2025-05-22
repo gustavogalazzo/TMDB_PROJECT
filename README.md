@@ -11,7 +11,6 @@ Este projeto é uma aplicação web desenvolvida em **React**, que consome a [AP
 - 📄 Página de detalhes com sinopse, gêneros e trailer
 - 📽️ Player integrado via YouTube
 - ⚠️ Página 404 personalizada
-- 🎨 Estilização com CSS puro e animações
 
 ---
 
